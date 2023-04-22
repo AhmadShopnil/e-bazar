@@ -1,5 +1,5 @@
 import ProductDetailsSlider from "@/components/ProductDetailsSlider/ProductDetailsSlider";
-import RelatedProducts from "@/components/RelatedProdects/RelatedPRoducts";
+import RelatedProducts from "@/components/RelatedProducts/RelatedProducts";
 import Wrapper from "@/components/Wrapper/Wrapper";
 import React from "react";
 import { IoMdHeartEmpty } from "react-icons/io";

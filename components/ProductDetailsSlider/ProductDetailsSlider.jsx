@@ -20,12 +20,20 @@ const ProductDetailsSlider = () => {
           width={400}
           height={500}
         />
-        <Image src="/assets/img/p2.png" alt="" width={400} height={500} />
+        <img src="/assets/img/p1.png" alt="" />
+        <img src="/assets/img/p2.png" alt="" />
+        <img src="/assets/img/p3.png" alt="" />
+        <img src="/assets/img/p4.png" alt="" />
+        <img src="/assets/img/p5.png" alt="" />
+        <img src="/assets/img/p6.png" alt="" />
+        <img src="/assets/img/p7.png" alt="" />
+
+        {/* <Image src="/assets/img/p2.png" alt="" width={400} height={500} />
         <Image src="/assets/img/p3.png" alt="" width={400} height={500} />
         <Image src="/assets/img/p4.png" alt="" width={400} height={500} />
         <Image src="/assets/img/p5.png" alt="" width={400} height={500} />
         <Image src="/assets/img/p6.png" alt="" width={400} height={500} />
-        <Image src="/assets/img/p7.png" alt="" width={400} height={500} />
+        <Image src="/assets/img/p7.png" alt="" width={400} height={500} /> */}
       </Carousel>
     </div>
   );

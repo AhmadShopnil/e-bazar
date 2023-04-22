@@ -1,4 +1,5 @@
 import ProductDetailsSlider from "@/components/ProductDetailsSlider/ProductDetailsSlider";
+import RelatedProducts from "@/components/RelatedProdects/RelatedPRoducts";
 import Wrapper from "@/components/Wrapper/Wrapper";
 import React from "react";
 import { IoMdHeartEmpty } from "react-icons/io";
@@ -131,7 +132,7 @@ const ProductDetails = () => {
           {/* right column end */}
         </div>
 
-        {/* <RelatedProducts products={products} /> */}
+        <RelatedProducts></RelatedProducts>
       </Wrapper>
     </div>
   );
